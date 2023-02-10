@@ -1,0 +1,64 @@
+body {
+    font-family: 'Teko', sans-serif!important;
+    background-color: black!important;
+}
+
+.hidden {
+    display: none;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+    border: 10px solid green!important;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: green;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    color: green;
+    font-size: 20px!important;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: green;
+}
+
+.col-12 {
+    color: green;
+    border: 10px solid green
+}
+
+nav {
+    text-align: center;
+    margin: 0 auto;
+}
+
+button {
+    color: green;
+    background-color: black;
+    border: 10px solid green;
+}
+
+#a,
+#b,
+#c,
+#d {
+    color: green!important;
+}
+
+.container {
+    margin-top: 20px;
+}
